@@ -17,3 +17,8 @@ add node_modules/
 git add .
 git commit -m "woo"
 git push origin main
+
+there were issues with the branching system - look into this.
+  
+  git pull --rebase origin main
+  git push origin main
